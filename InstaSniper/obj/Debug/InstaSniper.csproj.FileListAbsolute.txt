@@ -1,0 +1,83 @@
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\InstaSniper.exe.config
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\InstaSniper.exe
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\InstaSniper.pdb
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.CopyComplete
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.exe
+C:\Users\User\Desktop\InstaSniper\InstaSniper\obj\Debug\InstaSniper.pdb
+B:\C#\InstaSniper\InstaSniper\bin\Debug\InstaSniper.exe.config
+B:\C#\InstaSniper\InstaSniper\bin\Debug\InstaSniper.exe
+B:\C#\InstaSniper\InstaSniper\bin\Debug\InstaSniper.pdb
+B:\C#\InstaSniper\InstaSniper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\Newtonsoft.Json.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\RestSharp.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Buffers.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Memory.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Numerics.Vectors.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Text.Encodings.Web.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Text.Json.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Threading.Tasks.Extensions.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.ValueTuple.xml
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.AssemblyReference.cache
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.SuggestedBindingRedirects.cache
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.CoreCompileInputs.cache
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.CopyComplete
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.exe
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.pdb
+B:\C#\InstaSniper\InstaSniper\bin\Debug\InstaSniperDB.db
+B:\C#\InstaSniper\InstaSniper\bin\Debug\Dapper.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Data.SQLite.xml
+B:\C#\InstaSniper\InstaSniper\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.Fody.CopyLocal.cache
+B:\C#\InstaSniper\InstaSniper\obj\Debug\InstaSniper.csproj.Fody.RuntimeCopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\InstaSniperDB.db
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\InstaSniper.exe.config
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\InstaSniper.exe
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\InstaSniper.pdb
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\Dapper.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\Newtonsoft.Json.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\RestSharp.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Buffers.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Data.SQLite.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Memory.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Numerics.Vectors.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Text.Encodings.Web.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Text.Json.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.Threading.Tasks.Extensions.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Debug\System.ValueTuple.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.AssemblyReference.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.SuggestedBindingRedirects.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.CoreCompileInputs.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.Fody.CopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.Fody.RuntimeCopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.csproj.CopyComplete
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.exe
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Debug\InstaSniper.pdb

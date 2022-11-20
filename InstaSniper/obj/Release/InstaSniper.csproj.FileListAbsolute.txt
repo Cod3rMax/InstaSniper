@@ -1,0 +1,52 @@
+B:\C#\InstaSniper\InstaSniper\bin\Release\InstaSniper.exe.config
+B:\C#\InstaSniper\InstaSniper\bin\Release\InstaSniper.exe
+B:\C#\InstaSniper\InstaSniper\bin\Release\InstaSniper.pdb
+B:\C#\InstaSniper\InstaSniper\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\Newtonsoft.Json.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\RestSharp.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Buffers.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Memory.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Numerics.Vectors.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Text.Encodings.Web.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Text.Json.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Threading.Tasks.Extensions.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.ValueTuple.xml
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.AssemblyReference.cache
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.SuggestedBindingRedirects.cache
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.CoreCompileInputs.cache
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.CopyComplete
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.exe
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.pdb
+B:\C#\InstaSniper\InstaSniper\bin\Release\InstaSniperDB.db
+B:\C#\InstaSniper\InstaSniper\bin\Release\Dapper.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Data.SQLite.xml
+B:\C#\InstaSniper\InstaSniper\bin\Release\System.Diagnostics.DiagnosticSource.xml
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.Fody.CopyLocal.cache
+B:\C#\InstaSniper\InstaSniper\obj\Release\InstaSniper.csproj.Fody.RuntimeCopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\InstaSniperDB.db
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\InstaSniper.exe.config
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\InstaSniper.exe
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\InstaSniper.pdb
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\Dapper.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\Newtonsoft.Json.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\RestSharp.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Buffers.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Data.SQLite.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Diagnostics.DiagnosticSource.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Memory.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Numerics.Vectors.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Text.Encodings.Web.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Text.Json.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.Threading.Tasks.Extensions.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\bin\Release\System.ValueTuple.xml
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.AssemblyReference.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.SuggestedBindingRedirects.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.CoreCompileInputs.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.Fody.CopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.Fody.RuntimeCopyLocal.cache
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.csproj.CopyComplete
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.exe
+B:\C#\InstaSniper Double Agent\InstaSniper Open Source\InstaSniper\obj\Release\InstaSniper.pdb
