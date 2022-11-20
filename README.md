@@ -11,6 +11,7 @@ Check Instagram usernames with combination of 3-4 letters.
 - Multi-thread up to 200
 - Proxy (HTTPS,HTTP & SOCKS5)
 - SSL
+- High CPM (Better with Residential Proxy)
 - Low Memory Consumption
 
 
